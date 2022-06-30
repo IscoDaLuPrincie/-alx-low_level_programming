@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Auth: Derrick Owusu
+ * Auth: Francisco Kaunda
  */
 
 #include <stdio.h>

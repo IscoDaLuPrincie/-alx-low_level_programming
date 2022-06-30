@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: Derrick Owusu<Alx school>
+ * Auth:<ncisco Kaunda <Alx school>
  */
 
 #include <stdio.h>

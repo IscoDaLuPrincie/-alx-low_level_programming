@@ -1,6 +1,6 @@
 /*
  * File: 101-quote.c
- * Auth: Derrick Owusu
+ * Auth: Francicso Kaunda
  */
 
 #include <unistd.h>

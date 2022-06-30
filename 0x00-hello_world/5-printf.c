@@ -1,6 +1,6 @@
 /*
  *File: 5-prinf.c
- *Auth: Derrick Owusu
+ *Auth: Francisco Kaunda
  */
 
 

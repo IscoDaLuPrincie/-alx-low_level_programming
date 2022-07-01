@@ -1,5 +1,4 @@
-/*
- * File: 6-print_numberz.c
+/* * File: 6-print_numberz.c
  * Auth: Francisco Kaunda                               
  */
 

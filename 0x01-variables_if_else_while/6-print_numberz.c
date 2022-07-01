@@ -1,5 +1,6 @@
- /* File: 6-print_numberz.c
- * Auth: Francisco Kaunda                               
+ /*
+ *File: 6-print_numberz.c
+ * Auth: Francisco Kaunnda
  */
 
 #include <stdio.h>
